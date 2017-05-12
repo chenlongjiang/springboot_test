@@ -16,4 +16,6 @@ public class GirlProperties {
 
     private String cupsize;
     private String age;
+
+
 }
